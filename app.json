@@ -4,7 +4,7 @@
     "slug": "proyectoUnidad3Actividad1",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
+    "icon": "./assets/images/calendario.png",
     "scheme": "myapp",
     "userInterfaceStyle": "automatic",
     "splash": {
